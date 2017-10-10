@@ -1,5 +1,5 @@
-abc.exe:main.o add.o fact.o
-	gcc -o abc.exe main.o add.o fact.o
+hari.exe:main.o add.o fact.o
+	gcc -o hari.exe main.o add.o fact.o
 add.o:add.c
 	gcc -c add.c
 fact.o:fact.c
